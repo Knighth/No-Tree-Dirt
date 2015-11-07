@@ -22,7 +22,7 @@ Enhancements include:
 
 
 Side note: All tree asset that get changed, stay changed untill assets are unloaded by game.
-generally you would think this would be at each return to menu... but that's not always the
+Generally you would think this would be at each return to menu... but that's not always the
 case. This mod, at the moment does not put them back on map-unload, basically on purpose, but
 it easly could be changed to do so.
 
