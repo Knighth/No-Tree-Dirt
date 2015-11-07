@@ -1,0 +1,7 @@
+Assembly-CSharp.dll
+Assembly-CSharp-firstpass.dll
+ColossalManaged.dll
+ICities.dll
+UnityEngine.dll
+
+...or just update the reffernce inside the project itself.
